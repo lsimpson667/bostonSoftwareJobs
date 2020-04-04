@@ -1,0 +1,55 @@
+.navbar-container {
+    display: flex;
+    background-color: #e9ecef;
+    margin-bottom: 20px;
+    height: 50px;
+    align-items: center;
+    border-bottom: 1px solid lightgrey;
+}
+.left-nav-link-container {
+    margin-left: 5px;
+}
+.boston-jobs-link {
+    color: grey;
+    font-size: 20px
+}
+.right-nav-links-container {
+    display: flex;
+    width: 120px;
+    justify-content: space-between;
+    margin-left: 1250px;
+}
+.login-link {
+    color: grey;
+}
+.sign-up-link {
+    color: grey;
+}
+.container-for-grey-container {
+    display: flex;
+    justify-content: center;
+}
+.home-page-grey-container {
+    width: 1400px;
+}
+.companies-page-grey-container {
+    width: 1600px;
+    border-radius: 12px;
+    
+}
+.title {
+    font-size: 100px;
+}
+.description {
+    font-size: 33px;
+}
+a .btn {
+    background-color: #2154a1;
+}
+.trademark-container {
+    margin-left: 5px;
+}
+.trademark {
+    font-size: 12px;
+}
+
