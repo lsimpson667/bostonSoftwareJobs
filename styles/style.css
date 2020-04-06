@@ -43,9 +43,31 @@
 .description {
     font-size: 33px;
 }
-a .btn {
-    background-color: #2154a1;
+.corporate-logos-container {
+    display: flex;
+
+    
 }
+.logo-name-description-container {
+    width: 1500px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+
+    
+}
+.individualLogoContainers {
+    width: 20%;
+    margin-right: 10px;
+    margin-bottom:10px;
+}
+.img-thumbnail {
+    text-align: center;
+}
+.image {
+    width: 100%;
+}
+
 .trademark-container {
     margin-left: 5px;
 }
