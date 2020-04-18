@@ -25,6 +25,9 @@
 .sign-up-link {
     color: grey;
 }
+.main-sub-container {
+    margin: 60px; 
+}
 .container-for-grey-container {
     display: flex;
     justify-content: center;
@@ -42,6 +45,10 @@
 }
 .description {
     font-size: 33px;
+}
+.buttons-and-inputs-container {
+    display: flex;
+    flex-direction: column;
 }
 .corporate-logos-container {
     display: flex;
